@@ -10,3 +10,7 @@ Landing page that counts down from the current date to the next new year
 - Show a spinner right before loading the countdown
 - Show the coming year in the background
 # new-year-countdown
+
+[Contagem regressiva fim de ano][1]
+
+[1]: https://fabiosimedo.github.io/new-year-countdown/ "Contagem regressiva fim de ano"
