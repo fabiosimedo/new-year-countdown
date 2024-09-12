@@ -5,8 +5,11 @@ const seconds = document.getElementById('seconds');
 const countdown = document.getElementById('countdown');
 const year = document.getElementById('year');
 const loading = document.getElementById('loading');
+const getSpan = document.getElementById('current-year');
 
 const currentYear = new Date().getFullYear();
+
+getSpan.innerText = currentYear
 
 const newYearTime = new Date(`January 01 ${currentYear + 1} 00:00:00`);
 
